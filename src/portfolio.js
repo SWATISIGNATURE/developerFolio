@@ -193,20 +193,22 @@ const achievementSection = {
 
   achivementsCards: [
     {
-      title: "Title1",
-      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+      title: "Black Friday Sale",
+      //subtitle: "Black Friday Sales Prediction",
+      image: require("./assets/images/blackfriday.webp"),
       footerLink: [
-        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
-        { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
-        { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
+        { name: "git", url: "https://github.com/SWATISIGNATURE/ML_Projects/tree/master/Black_Friday_Prediction" },
+        { name: "Kaggle", url: "https://www.kaggle.com/sdolezel/black-friday" }
       ]
     },
     {
-      title: "Title2",
-      subtitle: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      footerLink: [{ name: "View Google Assistant Action", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
+      title: "Health Insurance Cost",
+      //subtitle: "Health Insurance Cost Estimation",
+      image: require("./assets/images/health_insurance.webp"),
+      footerLink: [
+        { name: "git", url: "https://github.com/SWATISIGNATURE/ML_Projects/tree/master/Medical_Insurance_Cost" },
+        { name: "Kaggle", url: "https://www.kaggle.com/mirichoi0218/insurance" }
+      ]
     },
 
     {
