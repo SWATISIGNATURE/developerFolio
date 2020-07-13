@@ -194,7 +194,7 @@ const achievementSection = {
   achivementsCards: [
     {
       title: "Black Friday Sale",
-      subtitle: "Retail Companies to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories and predict the purchase price"
+      subtitle: "Retail Companies to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories and predict the purchase price.",
       image: require("./assets/images/blackfriday.webp"),
       footerLink: [
         { name: "git", url: "https://github.com/SWATISIGNATURE/ML_Projects/tree/master/Black_Friday_Prediction" },
