@@ -194,7 +194,7 @@ const achievementSection = {
   achivementsCards: [
     {
       title: "Black Friday Sale",
-      //subtitle: "Black Friday Sales Prediction",
+      subtitle: "Retail Companies to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories and predict the purchase price"
       image: require("./assets/images/blackfriday.webp"),
       footerLink: [
         { name: "git", url: "https://github.com/SWATISIGNATURE/ML_Projects/tree/master/Black_Friday_Prediction" },
@@ -203,7 +203,7 @@ const achievementSection = {
     },
     {
       title: "Health Insurance Cost",
-      //subtitle: "Health Insurance Cost Estimation",
+      subtitle: "Health Insuarnce companyies wants to understand the pattern to estimate the correct health insurance amount for population using old data.",
       image: require("./assets/images/health_insurance.webp"),
       footerLink: [
         { name: "git", url: "https://github.com/SWATISIGNATURE/ML_Projects/tree/master/Medical_Insurance_Cost" },
