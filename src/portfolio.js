@@ -192,6 +192,15 @@ const achievementSection = {
   subtitle: "Machine Learning Projects and Some Cool Stuff that I have done !",
 
   achivementsCards: [
+	  {
+      title: "Credit Card Fraud Detection",
+      subtitle: "Banks and Finance Organization wants to be able to recognize fraudulent credit card transactions",
+      image: require("./assets/images/credit_card_fraud.webp"),
+      footerLink: [
+        { name: "git", url: "https://github.com/SWATISIGNATURE/ML_Projects/tree/master/Credit_Card_Fraud_Detection" },
+        { name: "Kaggle", url: "https://www.kaggle.com/mlg-ulb/creditcardfraud" }
+      ]
+    },
     {
       title: "Black Friday Sale",
       subtitle: "Retail Companies to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories and predict the purchase price.",
