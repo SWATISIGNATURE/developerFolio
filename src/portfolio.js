@@ -220,15 +220,7 @@ const achievementSection = {
       ]
     },
 
-    {
-      title: "Title3",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      footerLink: [
-        { name: "Certification", url: "" },
-        { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
-      ]
-    }
+    
   ]
 };
 
