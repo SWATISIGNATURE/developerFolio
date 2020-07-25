@@ -225,7 +225,7 @@ const achievementSection = {
       image: require("./assets/images/ml_agriculture.webp"),
       footerLink: [
         { name: "git", url: "https://github.com/SWATISIGNATURE/ML_Projects/tree/master/ML_in_Agriculture" },
-        { name: "Analytics_Vidhya", url: "https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agriculture/#ProblemStatement" }
+        { name: "Analytics_Vidhya Hackathon", url: "https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agriculture/#ProblemStatement" }
       ]
     },
 
