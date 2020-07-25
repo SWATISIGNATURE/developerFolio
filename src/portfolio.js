@@ -118,14 +118,16 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Senior Software Engineer",  
+      role: "Machine Learning Engineer",  
       company: "HSBC India Pvt. Ltd.",
       companylogo: require("./assets/images/hsbc.png"),
       date: "April 2019 – Oct 2019",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Leading the team on Banking Fraud Analytics and Predictions.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Designed and developed framework to analyze crucial datasets like TRANSACTIONS, CUSTOMERS, and ACCOUNTS that the bank deals with on a day-to-day basis and grouping them into various LOBs and analyzing the data with Rules set to check various parameters, consistency and correctness of the data.",
+        "Reporting the suspected Fraud data and tracking the Anti-Money laundering and tracking sanctioned framework and doing the risk rating for customers for which we receive the data on day to day basis."
+	"Built Machine Learning models to predict fraud Transaction cases, Customer's risk rating and Account churns and monitoring."
+	"Leading the Scrum team by Requirement gathering, Sprint planning, user story building session, Design and development of framework mentoring the team and code evaluation till the go-live of the project."
       ]
     },
     {
@@ -133,7 +135,12 @@ const workExperiences = {
       company: "Oracle India Pvt. Ltd",
       companylogo: require("./assets/images/oracle.png"),
       date: "Dec 2017 – Mar 2019",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Automation framework design and developement",
+      descBullets: [
+        "Designed and Built framework to enable automation of various Environment patching and code deployment."
+        "Designed architecture to deal with every data entry done and scrutinizing the data for its consistency."
+	"Automation of DB changes migration using utility Upatch."
+      ]
     },
     {
       role: "Technology Analyst - Infosys",  
