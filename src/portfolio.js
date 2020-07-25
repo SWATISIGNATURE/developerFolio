@@ -151,9 +151,9 @@ const workExperiences = {
       descBullets: [
         "Developed various aggregates on content and transaction data of user to provide usages of iTunes application",
         "Data optimization, Performance improvement, designing scalable application for further business analysis",
-		"Built Data quality and management framework to ensure the quality of data at the time of enrichment",
-		"Developed Framework for automation of Teradata loading from Hadoop with great improvement in the runtime, more than 60% time reduced",
-		"Mentoring the team members and guiding as part of peer-review and code standard improvement"
+	"Built Data quality and management framework to ensure the quality of data at the time of enrichment",
+	"Developed Framework for automation of Teradata loading from Hadoop with great improvement in the runtime, more than 60% time reduced",
+	"Mentoring the team members and guiding as part of peer-review and code standard improvement"
       ]
       },
   ]
