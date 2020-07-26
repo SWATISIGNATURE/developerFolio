@@ -121,40 +121,40 @@ const workExperiences = {
       role: "Machine Learning Engineer",  
       company: "HSBC India Pvt. Ltd.",
       companylogo: require("./assets/images/hsbc.png"),
-      date: "April 2019 – Oct 2019",
-      desc: "Leading the team on Banking Fraud Analytics and Predictions.",
+      date: "April 2019 – Oct 2019"
+      /*desc: "Leading the team on Banking Fraud Analytics and Predictions.",
       descBullets: [
         "Designed and developed framework to analyze crucial datasets like TRANSACTIONS, CUSTOMERS, and ACCOUNTS that the bank deals with on a day-to-day basis and grouping them into various LOBs and analyzing the data with Rules set to check various parameters, consistency and correctness of the data.",
         "Reporting the suspected Fraud data and tracking the Anti-Money laundering and tracking sanctioned framework and doing the risk rating for customers for which we receive the data on day to day basis."
 	"Built Machine Learning models to predict fraud Transaction cases, Customer's risk rating and Account churns and monitoring."
 	"Leading the Scrum team by Requirement gathering, Sprint planning, user story building session, Design and development of framework mentoring the team and code evaluation till the go-live of the project."
-      ]
+      ]*/
     },
     {
       role: "Application Engineer",   
       company: "Oracle India Pvt. Ltd",
       companylogo: require("./assets/images/oracle.png"),
-      date: "Dec 2017 – Mar 2019",
-      desc: "Automation framework design and developement",
+      date: "Dec 2017 – Mar 2019"
+      /*desc: "Automation framework design and developement",
       descBullets: [
         "Designed and Built framework to enable automation of various Environment patching and code deployment."
         "Designed architecture to deal with every data entry done and scrutinizing the data for its consistency."
 	"Automation of DB changes migration using utility Upatch."
-      ]
+      ]*/
     },
     {
       role: "Technology Analyst - Infosys",  
       company: "Apple",
       companylogo: require("./assets/images/applelogo.png"),
-      date: "Oct 2013 – Dec 2017",
-	  desc: "Analyzing data of apple music stores data for all the users and their activities being performed on iTunes like songs, app’s, videos and all the content’s information along with user’s transaction information and process using Hadoop and Big data technologies to understand overall usages of iTunes and iRadio application",
+      date: "Oct 2013 – Dec 2017"
+	/*  desc: "Analyzing data of apple music stores data for all the users and their activities being performed on iTunes like songs, app’s, videos and all the content’s information along with user’s transaction information and process using Hadoop and Big data technologies to understand overall usages of iTunes and iRadio application",
       descBullets: [
         "Developed various aggregates on content and transaction data of user to provide usages of iTunes application",
         "Data optimization, Performance improvement, designing scalable application for further business analysis",
 	"Built Data quality and management framework to ensure the quality of data at the time of enrichment",
 	"Developed Framework for automation of Teradata loading from Hadoop with great improvement in the runtime, more than 60% time reduced",
 	"Mentoring the team members and guiding as part of peer-review and code standard improvement"
-      ]
+      ]*/
       },
   ]
 };
