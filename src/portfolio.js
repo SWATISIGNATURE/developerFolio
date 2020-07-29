@@ -208,6 +208,15 @@ const achievementSection = {
         { name: "Kaggle", url: "https://www.kaggle.com/mlg-ulb/creditcardfraud" }
       ]
     },
+	{
+      title: "Dog or Cat Image Classification",
+      subtitle: "Given an image classify its a Dog or Cat",
+      image: require("./assets/images/dog_vs_cat.webp"),
+      footerLink: [
+        { name: "git", url: "https://github.com/SWATISIGNATURE/Deep_Learning/blob/master/Hands_On/CNN/Binary_Classifcation_CNN.ipynb" },
+        { name: "Kaggle", url: "https://www.kaggle.com/c/dogs-vs-cats" }
+      ]
+    },
     {
       title: "Black Friday Sale",
       subtitle: "Retail Companies to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories and predict the purchase price.",
