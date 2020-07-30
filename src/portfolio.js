@@ -244,6 +244,15 @@ const achievementSection = {
         { name: "Analytics_Vidhya Hackathon", url: "https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agriculture/#ProblemStatement" }
       ]
     },
+    {
+      title: "Fashion MNIST",
+      subtitle: "Classify Fashion items using Deep Learning",
+      image: require("./assets/images/fashion_MNIST.webp"),
+      footerLink: [
+        { name: "git", url: "https://github.com/SWATISIGNATURE/Deep_Learning/blob/master/Hands_On/Multi_Layer_Percepton/FashionMNIST_MLP.ipynb" },
+        { name: "Kaggle", url: "https://www.kaggle.com/zalando-research/fashionmnist" }
+      ]
+    },
 
     
   ]
