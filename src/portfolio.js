@@ -235,15 +235,7 @@ const achievementSection = {
         { name: "Kaggle", url: "https://www.kaggle.com/mirichoi0218/insurance" }
       ]
     },
-	{
-      title: "Fashion MNIST",
-      subtitle: "Classify Fashion items using Deep Learning",
-      image: require("./assets/images/fashion_MNIST.webp"),
-      footerLink: [
-        { name: "git", url: "https://github.com/SWATISIGNATURE/Deep_Learning/blob/master/Hands_On/Multi_Layer_Percepton/FashionMNIST_MLP.ipynb" },
-        { name: "Kaggle", url: "https://www.kaggle.com/zalando-research/fashionmnist" }
-      ]
-    },
+	
 	{
       title: "ML in Agriculture",
       subtitle: "Farmers wants to understand the chances of Crop damage so that they can take necessary action.",
@@ -251,6 +243,15 @@ const achievementSection = {
       footerLink: [
         { name: "git", url: "https://github.com/SWATISIGNATURE/ML_Projects/tree/master/ML_in_Agriculture" },
         { name: "Analytics_Vidhya Hackathon", url: "https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agriculture/#ProblemStatement" }
+      ]
+    },
+     {
+      title: "Fashion MNIST",
+      subtitle: "Classifying Fashion Items",
+      image: require("./assets/images/fashion_MNIST.webp"),
+      footerLink: [
+        { name: "git", url: "https://github.com/SWATISIGNATURE/Deep_Learning/blob/master/Hands_On/Multi_Layer_Percepton/MNIST_MLP_using_Keras.ipynb" },
+        { name: "Kaggle", url: "https://www.kaggle.com/zalando-research/fashionmnist" }
       ]
     },
     
