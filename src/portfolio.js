@@ -245,6 +245,17 @@ const achievementSection = {
         { name: "Analytics_Vidhya Hackathon", url: "https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agriculture/#ProblemStatement" }
       ]
     },
+	  
+    {
+      title: "IMDB Review Classification",
+      subtitle: "Binary sentiment classification of movies based on IMDB reviews.",
+      image: require("./assets/images/imdb.webp"),
+      footerLink: [
+        { name: "git", url: "https://github.com/SWATISIGNATURE/Deep_Learning/blob/master/Hands_On/RNN/IMDB_Review_Classification_Keras.ipynb" },
+        { name: "Kaggle", url: "https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews" }
+      ]
+    },
+	  
      {
       title: "Fashion MNIST",
       subtitle: "Classifying Fashion Items",
