@@ -235,8 +235,7 @@ const achievementSection = {
         { name: "Kaggle", url: "https://www.kaggle.com/mirichoi0218/insurance" }
       ]
     },
-	
-	{
+    {
       title: "ML in Agriculture",
       subtitle: "Farmers wants to understand the chances of Crop damage so that they can take necessary action.",
       image: require("./assets/images/ml_av.webp"),
@@ -245,7 +244,6 @@ const achievementSection = {
         { name: "Analytics_Vidhya Hackathon", url: "https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agriculture/#ProblemStatement" }
       ]
     },
-	  
     {
       title: "IMDB Review Classification",
       subtitle: "Binary sentiment classification of movies based on IMDB reviews.",
@@ -255,8 +253,7 @@ const achievementSection = {
         { name: "Kaggle", url: "https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews" }
       ]
     },
-	  
-     {
+    {
       title: "Fashion MNIST",
       subtitle: "Classifying Fashion Items",
       image: require("./assets/images/fashion_MNIST.webp"),
@@ -265,8 +262,6 @@ const achievementSection = {
         { name: "Kaggle", url: "https://www.kaggle.com/zalando-research/fashionmnist" }
       ]
     },
-    
-
     
   ]
 };
