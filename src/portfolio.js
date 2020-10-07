@@ -9,8 +9,8 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Swati Mishra",
   title: "Hi all, I'm Swati",
-  subTitle: emoji("A passionate,outgoing and detail oriented Engineer with 6 years of experience in Big Data Analytics, Machine Learning and Data Science domain."),
-  resumeLink: "https://drive.google.com/file/d/1oYaSpgOadhC3SDOgYZZXsiRSC0K22thL/view?usp=sharing"
+  subTitle: emoji("A passionate,outgoing and detail oriented Engineer with 7 years of experience in Big Data Analytics, Machine Learning and Data Science domain."),
+  resumeLink: "https://drive.google.com/file/d/1h_z7oDXBgKkTJxXZBQ_l31uS7dMvwB9Q/view?usp=sharing"
 };
 
 // Your Social Media Link
